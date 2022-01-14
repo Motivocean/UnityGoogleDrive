@@ -1,0 +1,12 @@
+{
+	"name": "com.elringus.unitygoogledrive",
+	"author": {
+		"name": "Elringus"
+	},
+	"displayName": "GoogleDrive API",
+	"description": "GoogleDrive API v0.27-alpha",
+	"unity": "2020.3",
+	"version": "v0.27.0-alpha",
+	"dependencies": {},
+	"scopedRegistries": []
+}
